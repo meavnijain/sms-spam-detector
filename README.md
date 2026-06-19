@@ -33,8 +33,9 @@ To run this repository on your local machine, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com
+   git clone https://github.com/meavnijain/sms-spam-detector.git
    cd sms-spam-detector
+
    ```
 
 2. **Install the dependencies:**
